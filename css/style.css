@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+}
+img{
+    width: 100%;
+}
+.animais{
+    text-align: center;
+}
+.alimentos{
+    text-align: center;
+}
+.texto_pets{
+    text-align: justify;
+}
+.link_inicio{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+}
